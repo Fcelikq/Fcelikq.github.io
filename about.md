@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: ' '
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+### Who Am I 
 
-### More Information
+Hello, I'm Fırat, I graduated from Bartın University Management Information Systems in 2019. I am working on algorithms and software and I follow closely technological developments .
 
-A place to include any other types of information that you'd like to include about yourself.
+My favorites language : Java, C#, JavaScript
+Framework : Spring, Maven
+Test Tools : Selenium, Gauge, Appium, Zalenium, Selenium Grid, Testng, RestAssured, WinAppDriver, Ldtp
+CI-CD : Docker, Jenkins, SonarQube
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fcelikq@gmail.com](mailto:fcelikq@gmail.com)
